@@ -1,12 +1,13 @@
-# 📚 Camera Equip
+# 📚 Tokyo Run Buddy
 
-This web application is a camera rental platform where owner is allowed to rent out thier cameras as well as allow renters to rent the listed cameras
+This is a mobile web application that suggests the user runs on their preferences such as time of day, weather, location, temperature and the user can save this suggested runs in their google calendar. 
 
 ![homepage](https://user-images.githubusercontent.com/122031769/224606200-b7666cb4-31dc-4963-9028-0c80578bc514.png)
 ![owner](https://user-images.githubusercontent.com/122031769/224606215-623afbf7-d036-4ef7-8a6a-3eb2a41342b2.png)
 ![lists_of_cameras](https://user-images.githubusercontent.com/122031769/224606624-9d11a4d4-15c3-446d-ade0-01d61b41e6a0.png)
 ![owner_renting_status](https://user-images.githubusercontent.com/122031769/224606669-9e19f788-bd44-470a-b6c2-7575266b18b4.png)
 ![renters](https://user-images.githubusercontent.com/122031769/224606941-7d4c3e2e-ce53-42cf-bf50-12550af3b636.png)
+![edit](https://user-images.githubusercontent.com/122031769/224610820-eda208a6-3360-4506-ac7e-c6c6b3a46ddb.png)
 
 
 
