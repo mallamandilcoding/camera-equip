@@ -1,13 +1,12 @@
-# 📚 Tokyo Run Buddy
+# 📚 Camera Equip
 
-This is a mobile web application that suggests the user runs on their preferences such as time of day, weather, location, temperature and the user can save this suggested runs in their google calendar. 
+This web application is a camera rental platform where owner is allowed to rent out thier cameras as well as allow renters to rent the listed cameras
 
-![homepage](https://user-images.githubusercontent.com/122031769/224606200-b7666cb4-31dc-4963-9028-0c80578bc514.png)
-![owner](https://user-images.githubusercontent.com/122031769/224606215-623afbf7-d036-4ef7-8a6a-3eb2a41342b2.png)
-![lists_of_cameras](https://user-images.githubusercontent.com/122031769/224606624-9d11a4d4-15c3-446d-ade0-01d61b41e6a0.png)
-![owner_renting_status](https://user-images.githubusercontent.com/122031769/224606669-9e19f788-bd44-470a-b6c2-7575266b18b4.png)
-![renters](https://user-images.githubusercontent.com/122031769/224606941-7d4c3e2e-ce53-42cf-bf50-12550af3b636.png)
-![edit](https://user-images.githubusercontent.com/122031769/224610820-eda208a6-3360-4506-ac7e-c6c6b3a46ddb.png)
+![home](https://user-images.githubusercontent.com/122031769/224610644-57ee7aea-055c-4a3f-b6fa-312c7733c5c0.png)
+![show](https://user-images.githubusercontent.com/122031769/224610655-acdd4400-0eac-41f9-9869-7192dceda8b8.png)
+![runs](https://user-images.githubusercontent.com/122031769/224610666-60b78d18-4d64-4ae3-beee-23c8e2852398.png)
+![trends](https://user-images.githubusercontent.com/122031769/224610673-682ef489-6285-4cc9-89a4-ff44de285b44.png)
+
 
 
 
