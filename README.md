@@ -4,7 +4,7 @@ This web application is a camera rental platform where owner is allowed to rent 
 
 <br>
 
-
+# DEMO 
 
 https://user-images.githubusercontent.com/122031769/226229469-54c5bfa9-0435-45b7-b4f0-1ad2664634e3.mp4
 
@@ -12,6 +12,8 @@ https://user-images.githubusercontent.com/122031769/226229469-54c5bfa9-0435-45b7
 
 <br>
 
+
+# PICTURES
 
 ![cameraequiphome](https://user-images.githubusercontent.com/122031769/226229565-dd2a6db9-120a-401b-bb85-d42512be271a.png)
 ![camerasrequest](https://user-images.githubusercontent.com/122031769/226229583-10285978-589e-44da-ae31-e8a9f7d7235d.png)
