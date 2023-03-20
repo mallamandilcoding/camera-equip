@@ -2,10 +2,24 @@
 
 This web application is a camera rental platform where owner is allowed to rent out thier cameras as well as allow renters to rent the listed cameras
 
-![home](https://user-images.githubusercontent.com/122031769/224610644-57ee7aea-055c-4a3f-b6fa-312c7733c5c0.png)
-![show](https://user-images.githubusercontent.com/122031769/224610655-acdd4400-0eac-41f9-9869-7192dceda8b8.png)
-![runs](https://user-images.githubusercontent.com/122031769/224610666-60b78d18-4d64-4ae3-beee-23c8e2852398.png)
-![trends](https://user-images.githubusercontent.com/122031769/224610673-682ef489-6285-4cc9-89a4-ff44de285b44.png)
+<br>
+
+
+
+https://user-images.githubusercontent.com/122031769/226229469-54c5bfa9-0435-45b7-b4f0-1ad2664634e3.mp4
+
+
+
+<br>
+
+
+![cameraequiphome](https://user-images.githubusercontent.com/122031769/226229565-dd2a6db9-120a-401b-bb85-d42512be271a.png)
+![camerasrequest](https://user-images.githubusercontent.com/122031769/226229583-10285978-589e-44da-ae31-e8a9f7d7235d.png)
+![rentcamera](https://user-images.githubusercontent.com/122031769/226229591-dbb5d3a2-55c5-419f-8e81-e281a943d74c.png)
+![lendform](https://user-images.githubusercontent.com/122031769/226229598-50ad661d-af9c-4fec-8e3e-3380499fc071.png)
+![showpage](https://user-images.githubusercontent.com/122031769/226229617-79916aa2-2007-47e2-8f3e-71a0048ef8fc.png)
+
+
 
 
 
